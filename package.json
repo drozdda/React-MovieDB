@@ -4,14 +4,14 @@
   "private": true,
   "homepage": "https://drozdda.github.io/React-MovieDB/",
   "devDependencies": {
-    "gh-pages": "2.0.1"
+    "gh-pages": "^2.0.1"
   },
   "dependencies": {
     "jquery": "^3.3.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
-    "react-router-dom":"5.0.0"
+    "react-router-dom": "5.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
